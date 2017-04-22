@@ -1,4 +1,4 @@
-#A Medium-Scale Approach to the History of Literary Criticism: Machine-Reading the Review Column, 1866-1900
+# A Medium-Scale Approach to the History of Literary Criticism: Machine-Reading the Review Column, 1866-1900
 
 Book reviews in nineteenth-century periodicals seem like the perfect data for doing computer-assisted disciplinary history. The body of the review gives information about the words used by early generations of literary critics while the paratext provides semi-structured information about how these early literary critics read, evaluated, classified: they include section headings labeling the topic or genre of books under review alongside bibliographic information. Such material, when studied in aggregate, could provide valuable insight into the long history of literary criticism. Yet there's a significant obstacle to this work: important metadata created by nineteenth authors and editors is captured erratically (if at all) within full-text databases and the periodical indexes that reference them. 
 
